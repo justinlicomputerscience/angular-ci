@@ -62,7 +62,7 @@ describe('demo, (no testbed)', () => {
                 .toBe(stubValue, 'service returned stub value');
             expect(valueServiceSpy.getValue.calls.count())
                 .toBe(1, 'spy method was called once');
-            expect(valueServiceSpy.getValue.calls.mostRecent())
+            expect(valueServiceSpy.getValue.calls.mostRecent().returnValue)
                 .toBe(stubValue);
         });
     });
