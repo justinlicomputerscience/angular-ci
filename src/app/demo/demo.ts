@@ -27,3 +27,12 @@ export class ValueService {
         return of('observable delay value').pipe(delay(1000));
     }
 }
+
+@Injectable()
+export class MasterService {
+    constructor(private valueService: ValueService){}
+
+    getValue(): string {
+        return this.valueService.getValue();
+    }
+}
