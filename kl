@@ -1,0 +1,113 @@
+[33mcommit 49008e49de371aa76e8d151268094cf8ee213359[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Thu Sep 30 11:21:23 2021 +1000
+
+    added tests for LighswitchComponent
+
+[33mcommit 145da39a0761c0d32be034fdb3232ca25616f164[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 15:55:36 2021 +1000
+
+    fixed a test
+
+[33mcommit 7d374c8c4de152b3f6753514ea1b2839d4ef4d93[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 15:48:54 2021 +1000
+
+    more tests
+
+[33mcommit 37652c1e38ba7faacd7e722c205e730bf49cb01c[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 15:34:24 2021 +1000
+
+    additional tests
+
+[33mcommit ff5bfbec1235072262f8f3d574e363d7005669ff[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 13:19:55 2021 +1000
+
+    added configuration file main.yml for GitHub CI
+
+[33mcommit a9a8e81057ab727c4e39e412584146547dd04db1[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 13:15:43 2021 +1000
+
+    title from information to info
+
+[33mcommit 010565d75aa98806b24ad9e32c5cf77212112bb9[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 13:13:17 2021 +1000
+
+    completed .gitlab-ci.yml file for GitLab CI
+
+[33mcommit 3124cc50266f24acfb733f2d8a34978b10a41984[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 13:06:23 2021 +1000
+
+    added build file .gitlab-ci.yml for GitLab CI
+
+[33mcommit cd1be8c42e58dc0c71de6ec2c12c82fda5d6aab6[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:58:31 2021 +1000
+
+    title from info to information
+
+[33mcommit 8aaa20a99bbfada3248e64a3d9092696ba8a7d76[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:53:57 2021 +1000
+
+    title from information to info
+
+[33mcommit 8f604728b61aeadee0106b1f06c9187a954e4a0d[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:52:10 2021 +1000
+
+    added .travis.yml file for Travis CI
+
+[33mcommit 2981ad4ba740cb0d521cd9f79077c72eb2ea7575[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:47:40 2021 +1000
+
+    changed title to information
+
+[33mcommit 7c2638bde03777a94035f3fc1bb8eb539e7f8432[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:45:01 2021 +1000
+
+    more change to karma.conf.js
+
+[33mcommit a97eae9908b8c6cfa6144258f0a94a9b21c6e4df[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:41:45 2021 +1000
+
+    changec ChromeHeadless to ChromeHeadlessCI
+
+[33mcommit beea33240d00f173d45b3e680892a1369c4e7d6a[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:40:00 2021 +1000
+
+    added ChromeHeadless
+
+[33mcommit 5a6234d95c0158798f0d05e24a502028d82b67ab[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 12:05:52 2021 +1000
+
+    fixed title
+
+[33mcommit 9a606b9b42422849276bef24d42446da43362784[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 10:53:32 2021 +1000
+
+    add configuration files for circleci
+
+[33mcommit 6ad482be9f7ae9f6d94f892651fa8599df2671fd[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 10:52:14 2021 +1000
+
+    changed-title
+
+[33mcommit f580917b452749d6b7e95fd453636f31f5fe4d23[m
+Author: Justin Li <dzjustinli2@gmail.com>
+Date:   Fri Sep 24 09:47:21 2021 +1000
+
+    initial commit
