@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable, Component } from '@angular/core';
 
 import { Observable, of } from 'rxjs';
 import { delay } from 'rxjs/operators';
@@ -34,5 +34,24 @@ export class MasterService {
 
     getValue(): string {
         return this.valueService.getValue();
+    }
+}
+
+/* 92 */ @Component({
+    selector: 'lightswitch-comp',
+    template: `
+        <button (click)="clicked()">click me</button>
+        <p>{{message}}</p>
+    `
+})
+export class LightswitchComponent {
+    isOn = false;
+    clicked(){
+        this.isOn = !this.isOn;
+
+    }
+
+    get message(){
+        return `the light is ${this.isOn ? 'on' : 'off'}`;
     }
 }
